@@ -8,8 +8,9 @@
 <body>
     
     <button><a href="AboutMe">About Me</a></button>  
-    <button><a href="Skills">Skills</a></button>
     <button><a href="Hobbies">Hobbies</a></button>
+    <button><a href="Skills">Skills</a></button>
+    <button><a href="/">Back</a></button>   
 
      <h1>About Me</h1>
      <h3>BSIT Major in Web Technology Student</h3>

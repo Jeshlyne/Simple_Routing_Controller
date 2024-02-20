@@ -7,8 +7,9 @@
 </head>
 <body>
     <button><a href="AboutMe">About Me</a></button>  
-    <button><a href="Skills">Skills</a></button>
     <button><a href="Hobbies">Hobbies</a></button>
+    <button><a href="Skills">Skills</a></button>
+    <button><a href="/">Back</a></button>   
     <h1>My Hobbies</h1>
     <h3>my hobbies are: </h3>
     <ol>

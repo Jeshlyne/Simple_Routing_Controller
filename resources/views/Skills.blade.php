@@ -6,6 +6,9 @@
     <title>Skills</title>
 </head>
 <body>
+<button><a href="AboutMe">About Me</a></button>  
+    <button><a href="Hobbies">Hobbies</a></button>
+    <button><a href="Skills">Skills</a></button>
     <button><a href="/">Back</a></button>   
     <h1>Skills</h1>
     <h3>My Skills are: </h3>
